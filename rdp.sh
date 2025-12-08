@@ -35,7 +35,7 @@ services:
     environment:
       VERSION: "11"
       USERNAME: "Nizarcartenz"
-      PASSWORD: "Nizar12345"
+      PASSWORD: "nizar1234"
       RAM_SIZE: "7G"
       CPU_CORES: "4"
     devices:
@@ -101,7 +101,7 @@ fi
 
 echo
 echo "🔑 Username: Nizarcartenz"
-echo "🔒 Password: Nizar12345"
+echo "🔒 Password: nizar1234"
 echo
 echo "Untuk melihat status container:"
 echo "  docker ps"
