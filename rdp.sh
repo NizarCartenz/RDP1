@@ -38,6 +38,8 @@ services:
       PASSWORD: "nizar1234"
       RAM_SIZE: "7G"
       CPU_CORES: "4"
+      DISK_SIZE: "400G"
+      DISK2_SIZE: "100G"
     devices:
       - /dev/kvm
       - /dev/net/tun
